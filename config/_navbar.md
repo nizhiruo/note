@@ -1,5 +1,4 @@
 * [**HTML,CSS**](../pages/html,css)
-* [**HTML,CSS**](../html/index.html)
 * [**Javascript**](../pages/Javascript)
 * [**Vue**](../pages/Vue)
 * [docsify入门文档](https://hooray.github.io/posts/ed9dc49e/)
