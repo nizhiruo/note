@@ -75,6 +75,7 @@ li{
     height: 38px;
     border: 1px solid #dfdfdf;
     position: absolute;
+    outline: none;
     bottom: 15px;
     right: 135px;
 }
