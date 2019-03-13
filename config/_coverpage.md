@@ -12,4 +12,4 @@
 [emoji](https://gist.github.com/rxaviers/7360908)
 [码云](https://apond.gitee.io/homework)
 [起步](../pages/html,css)
-[网页](../html/index,html)
+[网页](../html/index.html)
